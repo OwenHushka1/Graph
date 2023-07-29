@@ -1,4 +1,4 @@
-# GraphDistancesWIthBFT
+# GraphDistancesWithBFT
 
 ## Overview
 
